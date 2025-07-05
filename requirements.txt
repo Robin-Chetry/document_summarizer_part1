@@ -1,0 +1,16 @@
+langchain 
+langchainhub 
+langchain-community
+huggingface-hub 
+sentence-transformers 
+chromadb 
+google-generativeai 
+groq 
+langsmith
+langchain_google_genai
+streamlit
+pypdf
+PYPDF2
+docx
+langchain_chroma
+langchain_huggingface
